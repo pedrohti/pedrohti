@@ -13,10 +13,10 @@
 ### Contact:
 [![Twitter URL](https://img.shields.io/badge/@PedroH_Moraes-black?style=for-the-badge&logo=twitter)](https://twitter.com/PedroH_Moraes)
 [![Twitter URL](https://img.shields.io/badge/@PedroH_Moraes-black?style=for-the-badge&logo=twitter)](https://twitter.com/PedroH_Moraes)
--->
+
 ### Lives (sometimes):
 [![Twitch](https://img.shields.io/badge/StickmaN1-black?style=for-the-badge&logo=twitch)](https://twitch.tv/stickman1)
-
+-->
 
 
 
