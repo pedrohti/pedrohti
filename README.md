@@ -1,12 +1,18 @@
 ## Pedro Henrique :man_technologist:
 
+[![Twitter](https://img.shields.io/badge/-blue?&logo=twitter&logoColor=white&style=flat-square)](https://www.twitter.com/PedroH_Moraes)
+[![Email](https://img.shields.io/badge/-black?&logo=gmail&logoColor=white&style=flat-square)](mailto:pedroh.ti@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/-blue?&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pedrohmoraes/)
+
+<!-- [![Twitter](https://img.shields.io/badge/-%40PedroH__Moraes-blue?&logo=twitter&logoColor=white&style=flat-square)](https://www.twitter.com/PedroH_Moraes)
+[![Email](https://img.shields.io/badge/-pedroh.ti@hotmail.com-black?&logo=gmail&logoColor=white&style=flat-square)](mailto:pedroh.ti@hotmail.com) -->
 
 
 - ASP.NET Developer
 - Back-end Developer
 - Community Leader
 
-🌱 I’m currently learning NodeJS.
+🌱 I’m currently studying ASP.NET Core.
 
 [![RSV](https://avatars2.githubusercontent.com/u/25084709?s=60&v=4)](https://riosulvalley.com.br/)
 <!--
