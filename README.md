@@ -5,7 +5,6 @@
 * 🌱 Back-end Developer
 * :rocket: Community Leader
 * :books: I’m currently studying ASP.NET Core.
-<br>
 
 #### Regional Community:
 
