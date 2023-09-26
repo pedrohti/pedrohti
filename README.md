@@ -2,7 +2,7 @@
 [![LinkedinBadge](https://img.shields.io/badge/-Linkedin-blue?&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pedrohmoraes/)
 [![DevToBadge](https://img.shields.io/badge/-Dev.to-black?&logo=dev.to&logoColor=white&style=flat-square)](https://dev.to/pedrohti)
 [![DevToBadge](https://img.shields.io/badge/-Twitch-purple?&logo=twitch&logoColor=white&style=flat-square)](https://twitch.tv/stickman1)
--->
+
 
 ## Welcome 👋 
  <div>
@@ -14,7 +14,7 @@
   <img align="center" alt="PH-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="PH-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PH-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <!-- <img align="center" alt="PH-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+  <!-- <img align="center" alt="PH-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   <img align="center" alt="PH-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="PH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,8 +34,9 @@
  
 <div> 
   <!-- 
--->
+
   
  
  ![Snake animation](https://github.com/pedrohti/pedrohti/blob/output/github-contribution-grid-snake.svg)
 </div>
+-->
